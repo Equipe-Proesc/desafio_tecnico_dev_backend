@@ -1,0 +1,56 @@
+{
+  "aluno_id": 12345,
+  "prova_id": 67890,
+  "respostas": [
+    {
+      "questao_id": 1,
+      "tipo": "objetiva",
+      "resposta": "A",
+      "tempo_gasto": 120
+    },
+    {
+      "questao_id": 2,
+      "tipo": "objetiva",
+      "resposta": "C",
+      "tempo_gasto": 150
+    },
+    {
+      "questao_id": 3,
+      "tipo": "objetiva",
+      "resposta": "B",
+      "tempo_gasto": 90
+    },
+    {
+      "questao_id": 4,
+      "tipo": "descritiva",
+      "resposta": "Explicação detalhada da resposta.",
+      "tempo_gasto": 300
+    }
+  ],
+  "navegacao": [
+    {
+      "timestamp": 1588326400,
+      "acao": "entrou_prova"
+    },
+    {
+      "timestamp": 1588326500,
+      "acao": "questao_1"
+    },
+    {
+      "timestamp": 1588326620,
+      "acao": "questao_2"
+    },
+    {
+      "timestamp": 1588326770,
+      "acao": "questao_3"
+    },
+    {
+      "timestamp": 1588327070,
+      "acao": "questao_4"
+    },
+    {
+      "timestamp": 1588327370,
+      "acao": "finalizou_prova"
+    }
+  ]
+}

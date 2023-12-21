@@ -15,6 +15,7 @@ Este arquivo contém estruturas de dados críticas para o funcionamento do siste
   Desenvolva uma funcionalidade que permita aos gestores educacionais identificar possíveis casos de cola entre os alunos. Isso inclui a geração de relatórios baseados em critérios como:
   - Taxa de acertos similares em questões idênticas entre diferentes alunos.
   - Análise de padrões no tempo de resolução das questões, correlacionando-os com as taxas de acerto.
+  - Navegação entre questões
 
 **⚠️ CONSIDERE TEMPO GASTO NO ARQUIVO `prova.json` EM MILISEGUNDOS ⚠️**
 

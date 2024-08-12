@@ -56,3 +56,24 @@ echo isPalindrome("A man a plan a canal Panama") ? 'true' : 'false'; // Output: 
 echo "\n";
 echo isPalindrome("Hello") ? 'true' : 'false'; // Output: false
 ```
+
+## Desafio 2
+Nesse etapa vamos testar algumas das suas habilidades com SQL e Laravel e lógica.
+
+Instruções: Instale o projeto com o comando `instala_projeto.sh`
+não esqueça de rodar as migrations e as seeds
+
+Altere a coluna `minimal_disciplines_to_advance_to_next_class` para a turma de id 1 para ser 4 disciplinas minima para o aluno poder passar de ano. Em seguida crie um novo calculo onde a nota será calculada sendo a média ponderada em que o peso é `3.5`.
+
+na rota `/boletim/1` você deve conseguir ver o seguinte boletim:
+
+![image](docs/image.png)
+
+
+
+
+
+
+
+
+
